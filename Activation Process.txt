@@ -1,0 +1,8 @@
+1. open chrome
+2.click on 3 dots on upper right corner
+3.select more tools
+4.select extensions
+5.enable developer mode
+6.select loader unpacked
+7.choose this file folder
+8.enjoy youtube ad free
